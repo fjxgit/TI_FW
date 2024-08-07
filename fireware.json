@@ -1,0 +1,21 @@
+[
+  {
+    "fileName" : "basic_ble/basic_ble_onchip_v1.bin",
+    "version" : "1.0.0",
+    "hwType" : "CC2340R5",
+    "imageType" : "mcuboot"
+  },
+  {
+    "fileName" : "basic_ble/basic_ble_onchip_v2.bin",
+    "version" : "2.0.0",
+    "hwType" : "CC2340R5",
+    "imageType" : "mcuboot"
+  },
+  {
+    "fileName" : "basic_ble/basic_ble_onchip_v2_1.bin",
+    "version" : "2.1.0",
+    "hwType" : "CC2340R5",
+    "imageType" : "mcuboot"
+  },
+
+]
