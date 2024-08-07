@@ -16,6 +16,5 @@
     "version" : "2.1.0",
     "hwType" : "CC2340R5",
     "imageType" : "mcuboot"
-  },
-
+  }
 ]
